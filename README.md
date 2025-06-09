@@ -37,5 +37,5 @@ The goal of this project is to:
 - 💰 Salary Factor: Majority attrition occurs in salary bracket below 5K.
 - 📚 Education & Attrition: Life Sciences and Medical degrees lead in attrition counts.
 
-5. See how the its look - https://github.com/durvank2511/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png
+5. See how the its look - https://github.com/durvank2511/HR-Analytics/blob/main/HR%20Analaytics%20Dashboard
 
