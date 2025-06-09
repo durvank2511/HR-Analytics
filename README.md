@@ -15,10 +15,10 @@ The goal of this project is to:
 
 2. ⚙️ Tech Stack
 
-- Power BI - Data visualization, DAX calculations |
-- DAX - KPIs and calculated columns/measures |
-- Power Query - ETL (data cleaning, transformation) |
-- Excel / CSV - Data source for employee details and attrition info |
+- Power BI - Data visualization, DAX calculations 
+- DAX - KPIs and calculated columns/measures 
+- Power Query - ETL (data cleaning, transformation) 
+- Excel / CSV - Data source for employee details and attrition info 
 
 
 3. 📊 Dashboard Highlights
